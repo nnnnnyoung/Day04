@@ -39,6 +39,7 @@ public class Day04_12 {
 			}
 			System.out.println();
 		}	
+		
 	}
 
 }

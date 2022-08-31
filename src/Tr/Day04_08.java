@@ -5,6 +5,7 @@ public class Day04_08 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		
 		/* 5¹ø
 		0*0*0*0*
 		0*0*0*0*

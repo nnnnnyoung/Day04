@@ -5,6 +5,7 @@ public class Day04_10 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+	
 //		7.
 //		***********    1 11
 //		0*********     2 9

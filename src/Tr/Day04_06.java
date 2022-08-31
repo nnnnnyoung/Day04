@@ -17,7 +17,7 @@ public class Day04_06 {
 				System.out.print("0");
 			}
 			System.out.println();
-		}
+		} 
 
 	}
 

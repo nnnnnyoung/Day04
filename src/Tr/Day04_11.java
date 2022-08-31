@@ -23,6 +23,7 @@ public class Day04_11 {
 			System.out.println("*");
 			
 		}
+		
 	}
 
 }
